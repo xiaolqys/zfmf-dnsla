@@ -1,4 +1,4 @@
-# zjmf_DNSLA智简魔方财务对接DNSLA二级域名模块
+# 智简魔方财务对接DNSLA二级域名模块
 
 ## 核心功能
 
@@ -8,17 +8,17 @@
 -----
 ## 使用教程
 * **第一步；在DNSLA获取密钥和API**
- ![image](https://github.com/Xiaolqy/zjmf_DNSLA/20240925233819136-image-1024x609.png)
+ ![image](./20240925233819136-image-1024x609.png)
 * **第二步：添加服务器模块按图填写(绿色为正常)**
-  ![image](https://github.com/Xiaolqy/zjmf_DNSLA/20240925234015149-image.png)
+  ![image](./20240925234015149-image.png)
 * **第三步：新建产品(配置主机头)**
-  ![image](https://github.com/Xiaolqy/zjmf_DNSLA/20240925234947849-image-1024x630.png)
+  ![image](./20240925234947849-image-1024x630.png)
 * **第四步：配置产品自动化接口**
-  ![image](https://github.com/Xiaolqy/zjmf_DNSLA/20241124232426962-image-1024x360.png)
-  ![image](https://github.com/Xiaolqy/zjmf_DNSLA/20241124232531428-bc9458cf90e7a572deec8b0434cf41d1.png)
+  ![image](./20241124232426962-image-1024x360.png)
+  ![image](./20241124232531428-bc9458cf90e7a572deec8b0434cf41d1.png)
   * **第五步：测试开通(产品类型虚拟主机/其他产品。不能选择域名)**
  
     
 ## 捐赠我
 朱波家境贫寒，希望可以捐赠
- ![image](https://github.com/Xiaolqy/zjmf_DNSLA/mm_reward_qrcode_1753005758106.png)
+ ![image](./mm_reward_qrcode_1753005758106.png)
